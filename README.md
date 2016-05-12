@@ -3,11 +3,19 @@ This is an awesome plugin which will make your website more beautiful. just use 
 
 
 containing files -
+
 index.html,
+
 jquery.js,
+
 script.js,
+
 wowslider.js,
+
 wowslide.css,
+
 wsstyle.css,
+
 images folder,
+
 fonts folder.
