@@ -4,18 +4,18 @@ This is an awesome plugin which will make your website more beautiful. just use 
 
 containing files -
 
-index.html,
+index.html
 
-jquery.js,
+jquery.js
 
-script.js,
+script.js
 
-wowslider.js,
+wowslider.js
 
-wowslide.css,
+wowslide.css
 
-wsstyle.css,
+wsstyle.css
 
-images folder,
+images folder
 
-fonts folder.
+fonts folder
